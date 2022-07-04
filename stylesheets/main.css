@@ -1,0 +1,22 @@
+body {
+  background-color: purple;
+}
+h1 {
+  color: tomato;
+  text-align: left;
+  padding: 25px;
+  background-color: darkred;
+}
+p {
+  color: green;
+  text-align: left;
+  width: 1000px;
+  padding: 25px;
+}
+
+b {
+  padding: 25px ;
+}
+img {
+  padding: 25px;
+}
